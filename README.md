@@ -20,7 +20,6 @@ This repo is created as part of my learning journey in **Data Science & Analytic
 | File/Folder             | Description                                |
 |-------------------------|--------------------------------------------|
 | `NumPy_Basics.ipynb`    | Main notebook covering all core concepts   |
-| `data/` _(optional)_    | Sample datasets (if added later)           |
 | `README.md`             | This file – explains everything inside     |
 
 ---
